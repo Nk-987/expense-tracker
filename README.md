@@ -101,6 +101,4 @@ streamlit run app.py
 <h2>💬 Feedback</h2>
 <p>If you encounter any issues or have suggestions for improvement, feel free to open an issue on this repository. I would love to hear your thoughts!</p>
 
-<hr>
 
-<p align="center">Made with ❤️ by <strong>Faisal Rafiq</strong></p>
